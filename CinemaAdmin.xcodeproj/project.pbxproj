@@ -17,6 +17,7 @@
 		5C6EC18E2D1BCE2000E7D767 /* GoogleSheetsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6EC18D2D1BCE2000E7D767 /* GoogleSheetsService.swift */; };
 		5C6EC1912D1BD4D800E7D767 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6EC18F2D1BD4D800E7D767 /* SceneDelegate.swift */; };
 		5C6EC1922D1BD4D800E7D767 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6EC1902D1BD4D800E7D767 /* AppDelegate.swift */; };
+		5C6EC1942D1BD71D00E7D767 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6EC1932D1BD71D00E7D767 /* NetworkService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5C6EC18D2D1BCE2000E7D767 /* GoogleSheetsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleSheetsService.swift; sourceTree = "<group>"; };
 		5C6EC18F2D1BD4D800E7D767 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5C6EC1902D1BD4D800E7D767 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5C6EC1932D1BD71D00E7D767 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				5C6EC1822D1BCB0700E7D767 /* Model.swift */,
 				5C6EC17E2D1BCB0700E7D767 /* MovieTicketCell.swift */,
 				5C6EC18D2D1BCE2000E7D767 /* GoogleSheetsService.swift */,
+				5C6EC1932D1BD71D00E7D767 /* NetworkService.swift */,
 				5C6EC1772D1BCAE600E7D767 /* Info.plist */,
 			);
 			path = CinemaAdmin;
@@ -152,6 +155,7 @@
 			files = (
 				5C6EC1862D1BCB0700E7D767 /* MovieTicketCell.swift in Sources */,
 				5C6EC18B2D1BCB0700E7D767 /* CinemaAdminViewModel.swift in Sources */,
+				5C6EC1942D1BD71D00E7D767 /* NetworkService.swift in Sources */,
 				5C6EC1922D1BD4D800E7D767 /* AppDelegate.swift in Sources */,
 				5C6EC18E2D1BCE2000E7D767 /* GoogleSheetsService.swift in Sources */,
 				5C6EC1892D1BCB0700E7D767 /* CinemaAdminViewController.swift in Sources */,
